@@ -1,8 +1,8 @@
-# CodeDeployApp1
+# CodeDeployApp2
 
-echo "# CodeDeployApp1" >> README.md
+echo "# CodeDeployApp2" >> README.md
 git init
 git add README.md
 git commit -m "first commit"
-git remote add origin https://github.com/Douglas-H/CodeDeployApp1.git
+git remote add origin https://github.com/Douglas-H/CodeDeployApp2.git
 git push -u origin master
